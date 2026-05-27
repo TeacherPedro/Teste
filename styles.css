@@ -1,0 +1,32 @@
+/* Configurações Gerais do Corpo */
+body {
+    background-color: #e8f5e9; /* Cor de fundo suave */
+    color: #2e7d32; /* Cor do texto em verde escuro */
+    font-family: Verdana, sans-serif; /* Fonte limpa e legível */
+    margin: 20px;
+}
+
+/* Estilização do Cabeçalho */
+header {
+    color: #1b5e20; /* Tom de verde mais profundo */
+    border-left: 10px solid #4caf50; /* Detalhe lateral verde vibrante */
+    padding-left: 20px; /* Espaço para o detalhe lateral */
+    margin-bottom: 20px;
+}
+
+/* Menu de Navegação */
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    color: #388e3c; /* Cor dos links seguindo a paleta eco */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Área de Conte
